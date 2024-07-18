@@ -13,14 +13,14 @@ https://templatemo.com/tm-585-barber-shop
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #d6a354;
-  --secondary-color:              #c12828;
+  --secondary-color:              purple;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          black;
-  --custom-btn-bg-hover-color:    #FDBB2D;
+  --custom-btn-bg-hover-color:    purple;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #B22727;
+  --link-hover-color:             purple;
 
   --body-font-family:             'Unbounded', cursive;
 
